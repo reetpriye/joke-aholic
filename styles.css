@@ -1,6 +1,6 @@
 /* Google Font Import */
 /* For Joke */
-@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@600&display=swap');
 /* For Footer */
 @import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap');
 
@@ -22,7 +22,7 @@ body {
 
 .joke-container {
     color: #000;
-    font-family: 'Acme', sans-serif;
+    font-family: 'Dosis', sans-serif;
     font-weight: 600;
     width: auto;
     max-width: 900px;
