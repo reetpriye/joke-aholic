@@ -51,7 +51,7 @@ async function getJoke() {
 }
 
 function shareOnWp() {
-    const joke = `${joke1Text.innerText}%0a${joke2Text.innerText}%0a_Find more at *https://jokeaholic.netlify.app*_`;
+    const joke = `${joke1Text.innerText}%0a${joke2Text.innerText}%0a _Find more at *https://jokeaholic.netlify.app*_`;
     const wpUrl = `whatsapp://send?text=${joke}`;
     window.open(wpUrl, '_blank');
 }
