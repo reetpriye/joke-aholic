@@ -2,7 +2,7 @@
 
 JokeAholic : Get Dose of Awesome Joke.
 
-![ScreenShot](assets/Screenshot.png)
+![ScreenShot](assets/screenshot.png)
 
 Visit at https://jokeaholic.netlify.app
 
