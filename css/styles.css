@@ -20,6 +20,13 @@ body {
     justify-content: space-around;
 }
 
+.fork-me {
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: -1;
+}
+
 .joke-container {
     color: #000;
     font-family: 'Dosis', sans-serif;
