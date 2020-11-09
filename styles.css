@@ -44,7 +44,15 @@ body {
     font-size: 2rem;
 }
 
-.fa-arrow-right {
+.joke-arrow-right {
+    font-size: 2.6rem;
+}
+
+.long-joke-arrow-right {
+    font-size: 2rem;
+}
+
+.btn-arrow-right {
     font-size: 2.6rem;
 }
 
@@ -67,19 +75,11 @@ body {
     font-size: 2.6rem;
 }
 
-.whatsapp:hover {
-    color: #24ac9c;
-}
-
-.new:hover {
-    color: #65b3e7;
-}
-
 /* Button CSS Starts */
 
 .draw-border {
-    box-shadow: inset 0 0 0 4px #58afd1;
-    color: #58afd1;
+    box-shadow: inset 0 0 0 4px #28abb9;
+    color: #28abb9;
     -webkit-transition: color 0.25s 0.0833333333s;
     transition: color 0.25s 0.0833333333s;
     position: relative;
@@ -104,10 +104,10 @@ body {
     border-right-width: 4px;
 }
 .draw-border:hover {
-    color: #24ac9c;
+    color: #000;
 }
 .draw-border:hover::before, .draw-border:hover::after {
-    border-color: #24ac9c;
+    border-color: #000;
     -webkit-transition: border-color 0s, width 0.25s, height 0.25s;
     transition: border-color 0s, width 0.25s, height 0.25s;
     width: 100%;
