@@ -1,8 +1,8 @@
+![ScreenShot](assets/screenshot.png)
+
 ## JokeAholic
 
 JokeAholic : Get Dose of Awesome Joke.
-
-![ScreenShot](assets/screenshot.png)
 
 Visit at https://jokeaholic.netlify.app
 
