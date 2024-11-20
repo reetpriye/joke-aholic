@@ -1,4 +1,4 @@
-![ScreenShot](assets/screenshot.png)
+![ScreenShot](./assets/screenshot.png)
 
 ## JokeAholic
 
